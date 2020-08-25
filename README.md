@@ -1,2 +1,2 @@
-# Boston-House-Predictions
+# Boston-Housing-Dataset-Predictions
 In this repository, I've done different types of regression analysis on the Boston Housing data set linke Linear Regression, KNN and XGBoost etc...
